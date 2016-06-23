@@ -1,0 +1,24 @@
+.docbox{
+    overflow: auto;
+}
+.docbox .nav{
+    height: auto;
+    float: none;
+    width: 100%;
+    max-width: none;
+}
+.nav-btn{
+		display: inline-block;
+}
+.nav .navlist{
+    display: none;
+}
+.content{
+    overflow: visible;
+}
+.markdown{
+    height: auto;
+}
+.nav .nav-btn .nav-btn-bottom{
+	display: none; !important
+}
